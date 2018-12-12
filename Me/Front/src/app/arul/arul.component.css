@@ -1,0 +1,141 @@
+
+ #loginid{
+    margin-left:430px;
+}
+#custsignup{
+margin-left:430px
+}
+button#h2{
+    margin-left:300px;
+    width:100px;
+    height:50px;
+    border-radius:35px;
+    background-color: aquamarine;
+    border-top-color: black;
+    border-left-color: black
+}
+.card{
+    width:450px;
+    height:650px;
+    margin-left:-120px;
+    border-radius:25px;
+    background-color:whitesmoke
+}
+.card1{
+    width:400px;
+    height:450px;
+    margin-left:-120px;
+    border-radius:25px;
+    background-color:whitesmoke
+}
+html,body{
+    background-color: white
+}
+
+    #name{
+        width:280px;
+        margin-left:60px;
+        border-radius:15px
+    }
+    #empid{
+        width:280px;
+        margin-left:60px;
+        border-radius:15px
+    }
+    #pwd{
+        width:280px;
+        margin-left:60px;
+        border-radius:15px
+    }
+    #mail{
+        width:280px;
+        margin-left:60px;
+        border-radius:15px
+    }
+    #check{
+        width:280px;
+        margin-left:60px;
+        border-radius:15px
+    }
+    #click{
+        width:280px;
+        margin-left:60px;
+        border-radius:15px
+    }
+    #btn{
+        width:280px;
+        margin-left:60px;
+        border-radius:15px
+    }
+
+    @media screen and (max-width:480px)
+    {
+        #loginid{
+            margin-left:220px;
+        }
+        #custsignup{
+        margin-left:220px
+        }
+        button#h2{
+            margin-left:150px;
+            width:50px;
+            height:25px;
+            border-radius:17px;
+            background-color: aquamarine;
+            border-top-color: black;
+            border-left-color: black
+        }
+        .card{
+            width:220px;
+            height:325px;
+            margin-left:-60px;
+            border-radius:12px;
+            background-color:whitesmoke
+        }
+        .card1{
+            width:200px;
+            height:220px;
+            margin-left:-60px;
+            border-radius:12px;
+            background-color:whitesmoke
+        }
+        html,body{
+            background-color: white
+        }
+        
+            #name{
+                width:140px;
+                margin-left:30px;
+                border-radius:7px
+            }
+            #empid{
+                width:140px;
+                margin-left:30px;
+                border-radius:7px
+            }
+            #pwd{
+                width:140px;
+                margin-left:30px;
+                border-radius:7px
+            }
+            #mail{
+                width:140px;
+                margin-left:30px;
+                border-radius:7px
+            }
+            #check{
+                width:140px;
+                margin-left:30px;
+                border-radius:7px
+            }
+            #click{
+                width:140px;
+                margin-left:30px;
+                border-radius:7px
+            }
+            #btn{
+                width:140px;
+                margin-left:30px;
+                border-radius:7px
+            }
+    }
